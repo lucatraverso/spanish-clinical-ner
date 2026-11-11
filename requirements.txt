@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+accelerate
+seqeval
+spacy
+nltk
+gensim
+pandas
+matplotlib
+huggingface_hub
